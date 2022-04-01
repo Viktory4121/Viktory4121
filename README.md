@@ -9,7 +9,4 @@
   <a href="https://gitlab.com/med.viktory">
     <img src="https://img.shields.io/badge/GitLab-red?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab Badge"/>
   </a>
-  <a href="t.me/med_viktory">
-    <img src="https://img.shields.io/badge/Telegram-lightblue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
 </div>
